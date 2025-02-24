@@ -1,0 +1,4 @@
+
+[tool.poetry]
+name = "test-release"
+version = "1.0.0"
